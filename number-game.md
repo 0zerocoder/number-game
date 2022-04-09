@@ -1,5 +1,7 @@
 # number-game
-This game is about guessing numbers. The idea is this, you run a script,script choose a random number from 1 to 100, then it writes to you:
+This game is about guessing numbers. 
+The idea is - you run a script, script choose a random number from 1 to 100. 
+Then it writes to you:
 Guess number from 1 to 100
 You enter a number, if you say more - Game write
 My number is greater than <the number you entered>
